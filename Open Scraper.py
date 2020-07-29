@@ -46,9 +46,9 @@ print(text)
 
 today = date.today()
 date1 = today.strftime("%B %d, %Y")
-my_address = '16sr8@queensu.ca'
-test_address = 'stefanrobb@icloud.com'
-real_address = '16sr8@queensu.ca,isaac.benjamin@queensu.ca,,jordan.abramsky@queensu.ca,matt.bourque@queensu.ca'
+my_address = 'send from Office email'
+test_address = 'stefanrobb@ibutt.com
+real_address = 'send to emails seperated by a ,'
 password = input("Type your password and press enter:")
 port = 587
 smtp_server = "smtp-mail.outlook.com"
